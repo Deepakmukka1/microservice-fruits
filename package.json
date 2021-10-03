@@ -10,5 +10,9 @@
     "javascript"
   ],
   "author": "Mukka Deepak",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "express": "^4.17.1"
+  }
 }
