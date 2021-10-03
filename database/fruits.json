@@ -1,28 +1,26 @@
 [
-    {
-        "name":"Apple",
-        "calories":"95cal"
-
-    },
-    {
-        "name":"Grapes",
-        "calories":"104cal"
-    },
-    {
-        "name":"Mango",
-        "calories":"202cal"
-    },
-    {
-        "name":"Pappaya",
-        "calories":"215cal"
-    },
-    {
-        "name":"Watermelon",
-        "calories":"86cal"
-    },
-    {
-        "name":"Guava",
-        "calories":"37cal"
-    }
-
+  {
+    "name": "Apple",
+    "calories": "95cal"
+  },
+  {
+    "name": "Grapes",
+    "calories": "104cal"
+  },
+  {
+    "name": "Mango",
+    "calories": "202cal"
+  },
+  {
+    "name": "Papaya",
+    "calories": "215cal"
+  },
+  {
+    "name": "Watermelon",
+    "calories": "86cal"
+  },
+  {
+    "name": "Guava",
+    "calories": "37cal"
+  }
 ]
