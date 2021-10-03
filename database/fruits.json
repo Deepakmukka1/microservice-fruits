@@ -1,18 +1,28 @@
 [
     {
         "name":"Apple",
-        "calories":"10"
+        "calories":"95cal"
+
     },
     {
         "name":"Grapes",
-        "calories":"10"
+        "calories":"104cal"
     },
     {
         "name":"Mango",
-        "calories":"10"
+        "calories":"202cal"
     },
     {
         "name":"Pappaya",
-        "calories":"10"
+        "calories":"215cal"
+    },
+    {
+        "name":"Watermelon",
+        "calories":"86cal"
+    },
+    {
+        "name":"Guava",
+        "calories":"37cal"
     }
+
 ]

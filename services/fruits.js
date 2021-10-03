@@ -10,7 +10,7 @@ app.get('/fruits/:fruitname',(req,res)=>{
     const fruitDetails=fruits.filter((fruit)=>{
            return fruit.name.toLowerCase()===fruitName.toLowerCase()
     })
-    res.send(fruitDetails)
+    fruitDetails.length==0 ? res.status(404).send(`${fruitName} not found in database :(`) : res.status(200).send(fruitDetails)
 })
 
 module.exports.app=app
