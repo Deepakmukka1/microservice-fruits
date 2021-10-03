@@ -2,7 +2,11 @@ const express=require('express')
 const fruits=require('../database/fruits.json')
 const app=express()
 app.get('/',(req,res)=>{
-    res.json("Welcome to the fruits database")
+    res.status(200).json("Welcome to the fruits database")
+})
+
+app.get('/fruits',(req,res)=>{
+    res.status(200).json(fruits)
 })
 
 app.get('/fruits/:fruitname',(req,res)=>{
