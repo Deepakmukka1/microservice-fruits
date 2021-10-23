@@ -2,7 +2,7 @@
 
 A microservice for the demonstration of **medium** article.
 
-![image](https://user-images.githubusercontent.com/56472120/136704298-b0d27b36-15fc-4da5-99f4-30fbcac31503.png)
+![Medium designs (1)](https://user-images.githubusercontent.com/56472120/138562770-ddd731d7-28f1-4bd3-bf77-aac18cdd1423.png)
 
 
 Article link: https://bit.ly/microservice-article
